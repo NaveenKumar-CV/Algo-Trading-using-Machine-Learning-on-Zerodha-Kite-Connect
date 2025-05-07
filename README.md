@@ -8,9 +8,7 @@ Open an account on Zerodha and obtain a client id. I use my Zerodha account most
 
 In order to do algo-trading on Zerodha Kite Connect platform, one needs to first create an app on the following page:
 
-Login / Kite Connect developer
-Kite connect developer dashboard
-developers.kite.trade
+developers.kite.trade 
 
 Choose an app name that sounds cool.
 
